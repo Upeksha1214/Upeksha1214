@@ -26,8 +26,7 @@
 <h3 align="left">📫 Languages and Tools:</h3>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
-|<a href=""><img alt="Yasiru Dahanayaka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirulak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/yasirulak/github-readme-activity-graph"><img alt="Yasiru Dahanayaka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yasirulak&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
@@ -50,3 +49,6 @@
 
 <a href=""><img alt="Upeksha Sachintha's Github Status" src="https://github-readme-stats.vercel.app/api?username=Upeksha1214&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>|<a href=""><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yasiru Dahanayaka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirulak&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 |---|---|
+ 
+ |<a href=""><img alt="Upeksha Sachintha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirulak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/yasirulak/github-readme-activity-graph"><img alt="Yasiru Dahanayaka's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yasirulak&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
