@@ -1,3 +1,5 @@
+<h1 align="center"><img src="https://user-images.githubusercontent.com/101162407/177204366-5e29b687-1105-428a-8beb-9560c2a0c58f.gif" width="800px" height="500px"></h1>
+
 <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hello+%F0%9F%91%8B%2C+I'm+Upeksha+Sachintha...">
 <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Welcome+to+my+github+profile...">
 
